@@ -1,0 +1,7 @@
+DEPENDENCIES
+  db
+    git: https://github.com/MerrilCode/Cookbook-mongodb.git
+    revision: e16ae5922b94d38f8d149de7082182b3f4c418cb
+
+GRAPH
+  db (0.1.0)
